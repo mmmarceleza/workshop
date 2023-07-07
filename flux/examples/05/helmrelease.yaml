@@ -27,7 +27,7 @@ spec:
     #-----------------------------------------------------#
     image:
       repository: docker.io/mmmarceleza/app4:fb8973a-20230315184906 # {"$imagepolicy": "flux-system:app-05"}
-    replicaCount: 1
+    replicaCount: 3
     containerPort: 80
     #-----------------------------------------------------#
     #                        Service                      #
