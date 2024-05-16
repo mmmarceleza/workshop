@@ -26,7 +26,7 @@ spec:
     #                      Deployment                     #
     #-----------------------------------------------------#
     image:
-      repository: docker.io/mmmarceleza/app4:de28427-20240511005119 # {"$imagepolicy": "flux-system:app-05"}
+      repository: docker.io/mmmarceleza/app4:de28427-20240516181707 # {"$imagepolicy": "flux-system:app-05"}
     replicaCount: 3
     containerPort: 80
     #-----------------------------------------------------#
